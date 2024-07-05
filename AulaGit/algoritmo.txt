@@ -1,0 +1,19 @@
+Aula inicial de controle de versão
+
+Adicionando mudanças no meu arquivo
+
+Mudanças feitas na ramificação feature-1
+
+
+
+
+1- Encontrar meu celular
+2- Desbloquear o celular
+3- Abrir o aplicativo
+4- procurar/escolher o que quero senão encontrar escolho outrou
+5- adicionar o pedido no carrinho
+6- Escolher forma de pagamento 
+7- finalizar pedido
+8- aguardar retorno da loja, se a loja não confirmar volta para o passo 4
+9- aguardar o entregador 
+10- receber o pedido e realizar o pagamento  
